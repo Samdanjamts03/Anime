@@ -1,0 +1,27 @@
+.back{
+	font-size:50px;
+	position:fixed;
+	z-index:999;
+	top:30px;
+	left:25px;
+}
+body{
+	background-color:380B61 !important;
+}
+.img{
+	box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+}
+.ca{
+	margin-left:10%;
+	margin-top:25px;
+}
+h2{
+	background-color:FF0040;
+}
+.up{
+	position:fixed;
+	right:20px;
+	bottom:20px;
+	background-color:380B61;
+	padding:20px;
+}
